@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADDemo", "CADDemo\CADDemo.csproj", "{BA95BCB3-B73D-4F22-9F1E-6D31B4CAE12B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImitataCad", "ImitataCad\ImitataCad.csproj", "{B78DC8C8-BFAE-48EE-B194-A9C59CC6F111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA95BCB3-B73D-4F22-9F1E-6D31B4CAE12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA95BCB3-B73D-4F22-9F1E-6D31B4CAE12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA95BCB3-B73D-4F22-9F1E-6D31B4CAE12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA95BCB3-B73D-4F22-9F1E-6D31B4CAE12B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78DC8C8-BFAE-48EE-B194-A9C59CC6F111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78DC8C8-BFAE-48EE-B194-A9C59CC6F111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78DC8C8-BFAE-48EE-B194-A9C59CC6F111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78DC8C8-BFAE-48EE-B194-A9C59CC6F111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

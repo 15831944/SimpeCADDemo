@@ -1,0 +1,10 @@
+E:\c#  编写程序\CADDemo\CADDemo\ImitataCad\obj\Debug\ImitataCad.csprojResolveAssemblyReference.cache
+E:\c#  编写程序\CADDemo\CADDemo\ImitataCad\bin\Debug\ImitataCad.dll
+E:\c#  编写程序\CADDemo\CADDemo\ImitataCad\bin\Debug\ImitataCad.pdb
+E:\c#  编写程序\CADDemo\CADDemo\ImitataCad\obj\Debug\ImitataCad.dll
+E:\c#  编写程序\CADDemo\CADDemo\ImitataCad\obj\Debug\ImitataCad.pdb
+E:\Program\c#  编写程序\CADDemo\CADDemo\ImitataCad\bin\Debug\ImitataCad.dll
+E:\Program\c#  编写程序\CADDemo\CADDemo\ImitataCad\bin\Debug\ImitataCad.pdb
+E:\Program\c#  编写程序\CADDemo\CADDemo\ImitataCad\obj\Debug\ImitataCad.csprojResolveAssemblyReference.cache
+E:\Program\c#  编写程序\CADDemo\CADDemo\ImitataCad\obj\Debug\ImitataCad.dll
+E:\Program\c#  编写程序\CADDemo\CADDemo\ImitataCad\obj\Debug\ImitataCad.pdb
